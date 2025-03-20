@@ -8,6 +8,11 @@ Vi kommer också att utforska JSX och varför det är så kraftfullt. Efter denn
 
 ## Mål för veckan:
 
+1. Förstå poängen med att använda ett ramverk framför vanilla JS
+2. Förstå hur man skapar ett Reactprojekt
+3. Förstå den grundläggande syntaxen och strukturen i React
+4. Förstå vad komponenter är och vilken funktion de fyller
+5. Förstå hur vi kan använda props för att skicka data mellan komponenter
 
 ## Resurser
 
