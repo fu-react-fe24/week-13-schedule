@@ -50,6 +50,9 @@ Vi kommer också att utforska JSX och varför det är så kraftfullt. Efter denn
 
 ### Övningar 
 
+* [Min första React-app]()
+* [Components Bootcamp]()
+* [Bokhandeln]() - Veckans Code Review-uppgift
 
 
 
