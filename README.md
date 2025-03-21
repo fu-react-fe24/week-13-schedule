@@ -41,12 +41,14 @@ Vi kommer också att utforska JSX och varför det är så kraftfullt. Efter denn
 ### Filmer
 
 * [ReactJS Tutorial](https://www.youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza) - Film 1 till 20 är relevanta för den första veckan
+* [Learn React JS - Full Beginner’s Tutoria, 16h](https://www.youtube.com/watch?v=x4rFhThSX04)
 
 ### Länkar
 
 * [React-dokumentation](https://react.dev/)
 * [Node.js installation](https://nodejs.org/en)
 * [Node Package Manager - hitta bibliotek](https://www.npmjs.com/)
+* [Scrimba React Course](https://scrimba.com/learn-react-c0e)
 
 ### Övningar 
 
