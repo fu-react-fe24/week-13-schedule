@@ -40,18 +40,13 @@ Vi kommer också att utforska JSX och varför det är så kraftfullt. Efter denn
 
 ### Filmer
 
-* [ReactJS Tutorial 1 : Introduction To ReactJS](https://www.youtube.com/watch?v=MHn66JJH5zs&list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza&index=1)
-* [ReactJS Tutorial 2: Installing Required Tools](https://www.youtube.com/watch?v=R1B1PaD0sWU&list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza&index=2)
-* [ReactJS Tutorial 3 : Create React App Using VITE](https://www.youtube.com/watch?v=jufPO-r6bt0&list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza&index=3)
-* [ReactJS Tutorial 4 : How React App Works](https://www.youtube.com/watch?v=mNdLo_UfwBE&list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza&index=4)
-* [ReactJS Tutorial 5 : Creating A Component In React](https://www.youtube.com/watch?v=d5ooYpXioqE&list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza&index=5)
-* [ReactJS Tutorial 6 : Auto Format React Code With Prettier](https://www.youtube.com/watch?v=Ncl6AIC844c&list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza&index=6)
-* [ReactJS Tutorial 7 : What Is JSX In React](https://www.youtube.com/watch?v=LnJWQoiIS0g&list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza&index=7)
-* [ReactJS Tutorial 8 : Reusability of Components In React](https://www.youtube.com/watch?v=uD8NTs9h8rA&list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza&index=8)
-* 
+* [ReactJS Tutorial](https://www.youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza) - Film 1 till 20 är relevanta för den första veckan
 
 ### Länkar
 
+* [React-dokumentation](https://react.dev/)
+* [Node.js installation](https://nodejs.org/en)
+* [Node Package Manager - hitta bibliotek](https://www.npmjs.com/)
 
 ### Övningar 
 
