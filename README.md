@@ -28,9 +28,9 @@ Vi kommer också att utforska JSX och varför det är så kraftfullt. Efter denn
 
 **Förinspelat** (för distansklassen)
 
-* [01 - Introduktion till Ramverk](https://vimeo.com/1037398603/1c3556aede?share=copy)
-* [02 - React Intro](https://vimeo.com/1036790690/e4876fe825?share=copy)
-* [03 - Props](https://vimeo.com/1036792261/c39e695e41?share=copy)
+* [01 - Introduktion till Ramverk](https://vimeo.com/1037398603/1c3556aede?share=copy) - till måndag
+* [02 - React Intro](https://vimeo.com/1036790690/e4876fe825?share=copy) - till måndag
+* [03 - Props](https://vimeo.com/1036792261/c39e695e41?share=copy) - inte nödvändigt, detta kommer vi gå igenom och koda upp tillsammans på måndag eftermiddag!
 
 ### Lektionsrepon
 
@@ -52,9 +52,9 @@ Vi kommer också att utforska JSX och varför det är så kraftfullt. Efter denn
 
 ### Övningar 
 
-* [Min första React-app]()
-* [Components Bootcamp]()
-* [Book Store]() - Veckans Code Review-uppgift
+* [Min första React-app](https://github.com/fu-react-fe24/week-13-exercise-first-react-app)
+* [Components Bootcamp](https://github.com/fu-react-fe24/week-13-exercise-components-bootcamp)
+* [Book Store](https://github.com/fu-react-fe24/week-13-exercise-props-bookstore) - Veckans Code Review-uppgift
 
 
 
