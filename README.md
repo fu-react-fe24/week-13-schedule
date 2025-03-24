@@ -26,6 +26,11 @@ Vi kommer också att utforska JSX och varför det är så kraftfullt. Efter denn
 
 **LIVE**
 
+* [Kursintro](https://funet-my.sharepoint.com/:v:/g/personal/jesper_nyberg_folkuniversitetet_se/EfXcKuIrEDJKvFTDmQMcSuwBwA51tOAYiouMu0xVw3xptw?e=1k6KX4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) - Måndag eftermiddag
+* [React grunder del 1](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EaMt287a-YFAlBcp2CLvMa0BJ9HQ3BBCMayRn3NBVg0GbQ?e=VwJK4R&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) - Måndag förmiddag Karlstad
+* [React grunder del 2](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EYM33SAky7lIlOQ9l0_iXFABl3QmhjXYZjRsSBMnAeSayg?e=NucvjE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) - Måndag förmiddag Karlstad
+* [Props](https://funet-my.sharepoint.com/:v:/g/personal/jesper_nyberg_folkuniversitetet_se/EQ0D5ZbTuRRAvjKFPcmMJzQB-Qj3cWMnefs7E5TPnNddKg?e=YqwsQH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) - Måndag eftermiddag
+
 **Förinspelat** (för distansklassen)
 
 * [01 - Introduktion till Ramverk](https://vimeo.com/1037398603/1c3556aede?share=copy) - till måndag
